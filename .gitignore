@@ -311,5 +311,5 @@ design-assets/
 # 예외 처리: oauth2 폴더 포함
 # ============================
 
-!com/dialog/security/oauth2/
-!com/dialog/security/oauth2/**/*.java
+src/main/java/com/dialog/security/oauth2/
+!src/main/java/com/dialog/security/oauth2/
