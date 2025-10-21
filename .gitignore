@@ -314,5 +314,5 @@ design-assets/
 src/main/java/com/dialog/security/oauth2/
 !src/main/java/com/dialog/security/oauth2/
 
-com/dialog/token/
+!com/dialog/token/
 !com/dialog/token/**
