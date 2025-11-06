@@ -1,3 +1,3 @@
 pull_request_templates:
   - name: 기능 개발 PR
-    path: .github/PULL_REQUEST_TEMPLATE/feature-develop-pr-template.md
+    path: .github/pull_request_template/feature-develop-pr-template.md
